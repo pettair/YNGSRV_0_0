@@ -1,0 +1,100 @@
+TYNGSRV_0_0
+v7
+r0
+t307569402.500845
+cCheck dependencies
+cCompileC build/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/Objects-normal/i386/main.o /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/main.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/Objects-normal/i386/Server.o /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/Server.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004AB44D2500000000000000EE
+t1253330213
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/Library/Frameworks/SFML.framework/Headers/System.hpp
+c000000004BBA0518000000000000069F
+t1270482200
+s1695
+
+N/Library/Frameworks/sfml-system.framework/sfml-system
+c000000004BBA051800000000001C45D8
+t1270482200
+s1852888
+
+N/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/Server.cpp
+c000000004CA4E98B00000000000000A1
+t1285876107
+s161
+i"Server.hpp"
+
+N/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/Server.h
+c000000004CA4E9840000000000000088
+t1285876100
+s136
+
+N/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/Server.hpp
+c000000004CA4EB770000000000001B45
+t1285876599
+s6981
+
+N/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/Debug/YNGSRV_0_0
+t2
+s0
+
+N/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/Objects-normal/i386/Server.o
+t1285876602
+s200312
+
+N/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/Objects-normal/i386/YNGSRV_0_0.LinkFileList
+c000000004CA4EB790000000000000116
+t1285876601
+s278
+
+N/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/main.cpp
+c000000004CA4E9CB000000000000007F
+t1285876171
+s127
+i<SFML/System.hpp>
+i<iostream>
+i"Server.hpp"
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies307569401#307569401#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/Objects-normal/i386/Server.o /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/Server.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s307569401.577070
+e307569402.500759
+r1
+xCompileC
+xbuild/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/Objects-normal/i386/Server.o
+x/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/Server.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/Server.cpp307569401#307569402#0(0"0(0#0#75"/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/Server.cpp4300885448#1676"    cd /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D_GLIBCXX_DEBUG=1 -D_GLIBCXX_DEBUG_PEDANTIC=1 -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/YNGSRV_0_0-generated-files.hmap -I/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/YNGSRV_0_0-own-target-headers.hmap -I/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/YNGSRV_0_0-all-target-headers.hmap -iquote /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/YNGSRV_0_0-project-headers.hmap -F/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/Debug -I/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/Debug/include -I/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/DerivedSources/i386 -I/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/DerivedSources -c /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/Server.cpp -o /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/Objects-normal/i386/Server.o0#
+
+CCompileC build/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/Objects-normal/i386/main.o /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/main.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s307569401.575802
+e307569402.292434
+r0
+xCompileC
+xbuild/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/Objects-normal/i386/main.o
+x/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/main.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/main.cpp: In function 'int main()':
+o/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/main.cpp:7: error: redefinition of 'int main()'
+o/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/Server.hpp:207: error: 'int main()' previously defined here
+lSLF07#2@81"Compile /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/main.cpp307569401#307569402#0(339"/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/main.cpp: In function 'int main()':/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/main.cpp:7: error: redefinition of 'int main()'/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/Server.hpp:207: error: 'int main()' previously defined here2(4@28"Redefinition of 'int main()'307569402#101#113#0(6@73"/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/main.cpp307568971#7#0#7#0#19"redefinition of '*'0(13@36"'int main()' previously defined here307569402#214#125#0(6@75"/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/Server.hpp307569399#207#0#207#0#0"0(0#0#73"/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/main.cpp4300885448#1672"    cd /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D_GLIBCXX_DEBUG=1 -D_GLIBCXX_DEBUG_PEDANTIC=1 -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/YNGSRV_0_0-generated-files.hmap -I/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/YNGSRV_0_0-own-target-headers.hmap -I/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/YNGSRV_0_0-all-target-headers.hmap -iquote /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/YNGSRV_0_0-project-headers.hmap -F/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/Debug -I/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/Debug/include -I/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/DerivedSources/i386 -I/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/DerivedSources -c /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/main.cpp -o /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/Objects-normal/i386/main.o1#
+
+CLd /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/Debug/YNGSRV_0_0 normal i386
+r0
+

@@ -1,0 +1,183 @@
+TYNGSRV_0_0
+v7
+r0
+t307569613.972572
+cCheck dependencies
+cCompileC build/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/Objects-normal/i386/main.o /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/main.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/Objects-normal/i386/Server.o /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/Server.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cLd /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/Debug/YNGSRV_0_0 normal i386
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004AB44D2500000000000000EE
+t1253330213
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/Library/Frameworks/SFML.framework/Headers/Network.hpp
+c000000004BBA05180000000000000669
+t1270482200
+s1641
+
+N/Developer/SDKs/MacOSX10.5.sdk/Library/Frameworks/SFML.framework/Headers/System.hpp
+c000000004BBA0518000000000000069F
+t1270482200
+s1695
+
+N/Library/Frameworks/sfml-system.framework/sfml-system
+c000000004BBA051800000000001C45D8
+t1270482200
+s1852888
+
+N/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/Server.cpp
+c000000004CA4E98B00000000000000A1
+t1285876107
+s161
+i"Server.hpp"
+
+N/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/Server.h
+c000000004CA4E9840000000000000088
+t1285876100
+s136
+
+N/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/Server.hpp
+c000000004CA4EBED00000000000000B6
+t1285876717
+s182
+
+N/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/Debug/YNGSRV_0_0
+t2
+s0
+
+N/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/Objects-normal/i386/Server.o
+t1285876743
+s1240
+
+N/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/Objects-normal/i386/YNGSRV_0_0.LinkFileList
+c000000004CA4EB790000000000000116
+t1285876601
+s278
+
+N/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/Objects-normal/i386/main.o
+t1285876798
+s200280
+
+N/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/main.cpp
+c000000004CA4EC3D0000000000001ABB
+t1285876797
+s6843
+i<SFML/Network.hpp>
+i<iostream>
+i<vector>
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies307569613#307569613#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/Objects-normal/i386/Server.o /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/Server.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s307569543.132445
+e307569543.168390
+r1
+xCompileC
+xbuild/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/Objects-normal/i386/Server.o
+x/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/Server.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/Server.cpp307569543#307569543#0(0"0(0#0#75"/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/Server.cpp4300885448#1676"    cd /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D_GLIBCXX_DEBUG=1 -D_GLIBCXX_DEBUG_PEDANTIC=1 -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/YNGSRV_0_0-generated-files.hmap -I/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/YNGSRV_0_0-own-target-headers.hmap -I/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/YNGSRV_0_0-all-target-headers.hmap -iquote /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/YNGSRV_0_0-project-headers.hmap -F/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/Debug -I/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/Debug/include -I/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/DerivedSources/i386 -I/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/DerivedSources -c /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/Server.cpp -o /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/Objects-normal/i386/Server.o0#
+
+CCompileC build/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/Objects-normal/i386/main.o /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/main.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s307569598.811463
+e307569598.812907
+r1
+xCompileC
+xbuild/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/Objects-normal/i386/main.o
+x/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/main.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/main.cpp307569598#307569598#0(0"0(0#0#73"/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/main.cpp4300885448#1672"    cd /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D_GLIBCXX_DEBUG=1 -D_GLIBCXX_DEBUG_PEDANTIC=1 -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/YNGSRV_0_0-generated-files.hmap -I/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/YNGSRV_0_0-own-target-headers.hmap -I/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/YNGSRV_0_0-all-target-headers.hmap -iquote /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/YNGSRV_0_0-project-headers.hmap -F/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/Debug -I/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/Debug/include -I/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/DerivedSources/i386 -I/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/DerivedSources -c /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/main.cpp -o /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/Objects-normal/i386/main.o0#
+
+CLd /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/Debug/YNGSRV_0_0 normal i386
+s307569613.942674
+e307569613.972524
+r0
+xLd
+x/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/Debug/YNGSRV_0_0
+xnormal
+xi386
+oUndefined symbols:
+o  "sf::Packet::operator<<(unsigned short)", referenced from:
+o      operator<<(sf::Packet&, Character const&)in main.o
+o  "sf::IPAddress::IPAddress()", referenced from:
+o      RunClient(unsigned short)in main.o
+o      RunServer(unsigned short)in main.o
+o  "typeinfo for sf::Packet", referenced from:
+o      typeinfo for MyEncryptedPacketin main.o
+o  "sf::SocketTCP::Send(sf::Packet&)", referenced from:
+o      RunServer(unsigned short)in main.o
+o      RunServer(unsigned short)in main.o
+o  "sf::SocketTCP::SocketTCP()", referenced from:
+o      RunClient(unsigned short)in main.o
+o      RunServer(unsigned short)in main.o
+o      RunServer(unsigned short)in main.o
+o  "sf::SocketTCP::Close()", referenced from:
+o      RunClient(unsigned short)in main.o
+o      RunServer(unsigned short)in main.o
+o      RunServer(unsigned short)in main.o
+o  "sf::SocketTCP::Connect(unsigned short, sf::IPAddress const&, float)", referenced from:
+o      RunClient(unsigned short)in main.o
+o  "sf::Packet::operator bool() const", referenced from:
+o      RunClient(unsigned short)in main.o
+o      RunClient(unsigned short)in main.o
+o  "sf::operator>>(std::basic_istream<char, std::char_traits<char> >&, sf::IPAddress&)", referenced from:
+o      RunClient(unsigned short)in main.o
+o  "sf::Packet::operator>>(float&)", referenced from:
+o      operator>>(sf::Packet&, Character&)in main.o
+o  "sf::SocketTCP::Listen(unsigned short)", referenced from:
+o      RunServer(unsigned short)in main.o
+o  "sf::Packet::operator>>(unsigned short&)", referenced from:
+o      operator>>(sf::Packet&, Character&)in main.o
+o  "sf::Packet::Packet()", referenced from:
+o      RunClient(unsigned short)in main.o
+o      RunServer(unsigned short)in main.o
+o  "sf::Packet::GetDataSize() const", referenced from:
+o      MyEncryptedPacket::OnSend(unsigned long&)in main.o
+o  "sf::Packet::Packet()", referenced from:
+o      MyEncryptedPacket::MyEncryptedPacket()in main.o
+o  "sf::Packet::Append(void const*, unsigned long)", referenced from:
+o      MyEncryptedPacket::OnReceive(char const*, unsigned long)in main.o
+o  "sf::SocketTCP::Accept(sf::SocketTCP&, sf::IPAddress*)", referenced from:
+o      RunServer(unsigned short)in main.o
+o  "sf::operator<<(std::basic_ostream<char, std::char_traits<char> >&, sf::IPAddress const&)", referenced from:
+o      RunClient(unsigned short)in main.o
+o      RunServer(unsigned short)in main.o
+o  "sf::Packet::operator<<(std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)", referenced from:
+o      operator<<(sf::Packet&, Character const&)in main.o
+o  "sf::SocketTCP::Receive(sf::Packet&)", referenced from:
+o      RunClient(unsigned short)in main.o
+o      RunClient(unsigned short)in main.o
+o  "sf::Packet::operator>>(std::basic_string<char, std::char_traits<char>, std::allocator<char> >&)", referenced from:
+o      operator>>(sf::Packet&, Character&)in main.o
+o  "sf::Packet::~Packet()", referenced from:
+o      RunClient(unsigned short)in main.o
+o      RunClient(unsigned short)in main.o
+o      RunServer(unsigned short)in main.o
+o      RunServer(unsigned short)in main.o
+o  "sf::Packet::GetData() const", referenced from:
+o      MyEncryptedPacket::OnSend(unsigned long&)in main.o
+o      MyEncryptedPacket::OnSend(unsigned long&)in main.o
+o  "sf::Packet::operator<<(float)", referenced from:
+o      operator<<(sf::Packet&, Character const&)in main.o
+o  "sf::Packet::~Packet()", referenced from:
+o      MyEncryptedPacket::~MyEncryptedPacket()in main.o
+o      MyEncryptedPacket::~MyEncryptedPacket()in main.o
+o      MyEncryptedPacket::~MyEncryptedPacket()in main.o
+o      MyEncryptedPacket::~MyEncryptedPacket()in main.o
+o  "sf::IPAddress::IsValid() const", referenced from:
+o      RunClient(unsigned short)in main.o
+old: symbol(s) not found
+ocollect2: ld returned 1 exit status
+lSLF07#2@92"Link /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/Debug/YNGSRV_0_0307569613#307569613#0(3743"Undefined symbols:  "sf::Packet::operator<<(unsigned short)", referenced from:      operator<<(sf::Packet&, Character const&)in main.o  "sf::IPAddress::IPAddress()", referenced from:      RunClient(unsigned short)in main.o      RunServer(unsigned short)in main.o  "typeinfo for sf::Packet", referenced from:      typeinfo for MyEncryptedPacketin main.o  "sf::SocketTCP::Send(sf::Packet&)", referenced from:      RunServer(unsigned short)in main.o      RunServer(unsigned short)in main.o  "sf::SocketTCP::SocketTCP()", referenced from:      RunClient(unsigned short)in main.o      RunServer(unsigned short)in main.o      RunServer(unsigned short)in main.o  "sf::SocketTCP::Close()", referenced from:      RunClient(unsigned short)in main.o      RunServer(unsigned short)in main.o      RunServer(unsigned short)in main.o  "sf::SocketTCP::Connect(unsigned short, sf::IPAddress const&, float)", referenced from:      RunClient(unsigned short)in main.o  "sf::Packet::operator bool() const", referenced from:      RunClient(unsigned short)in main.o      RunClient(unsigned short)in main.o  "sf::operator>>(std::basic_istream<char, std::char_traits<char> >&, sf::IPAddress&)", referenced from:      RunClient(unsigned short)in main.o  "sf::Packet::operator>>(float&)", referenced from:      operator>>(sf::Packet&, Character&)in main.o  "sf::SocketTCP::Listen(unsigned short)", referenced from:      RunServer(unsigned short)in main.o  "sf::Packet::operator>>(unsigned short&)", referenced from:      operator>>(sf::Packet&, Character&)in main.o  "sf::Packet::Packet()", referenced from:      RunClient(unsigned short)in main.o      RunServer(unsigned short)in main.o  "sf::Packet::GetDataSize() const", referenced from:      MyEncryptedPacket::OnSend(unsigned long&)in main.o  "sf::Packet::Packet()", referenced from:      MyEncryptedPacket::MyEncryptedPacket()in main.o  "sf::Packet::Append(void const*, unsigned long)", referenced from:      MyEncryptedPacket::OnReceive(char const*, unsigned long)in main.o  "sf::SocketTCP::Accept(sf::SocketTCP&, sf::IPAddress*)", referenced from:      RunServer(unsigned short)in main.o  "sf::operator<<(std::basic_ostream<char, std::char_traits<char> >&, sf::IPAddress const&)", referenced from:      RunClient(unsigned short)in main.o      RunServer(unsigned short)in main.o  "sf::Packet::operator<<(std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)", referenced from:      operator<<(sf::Packet&, Character const&)in main.o  "sf::SocketTCP::Receive(sf::Packet&)", referenced from:      RunClient(unsigned short)in main.o      RunClient(unsigned short)in main.o  "sf::Packet::operator>>(std::basic_string<char, std::char_traits<char>, std::allocator<char> >&)", referenced from:      operator>>(sf::Packet&, Character&)in main.o  "sf::Packet::~Packet()", referenced from:      RunClient(unsigned short)in main.o      RunClient(unsigned short)in main.o      RunServer(unsigned short)in main.o      RunServer(unsigned short)in main.o  "sf::Packet::GetData() const", referenced from:      MyEncryptedPacket::OnSend(unsigned long&)in main.o      MyEncryptedPacket::OnSend(unsigned long&)in main.o  "sf::Packet::operator<<(float)", referenced from:      operator<<(sf::Packet&, Character const&)in main.o  "sf::Packet::~Packet()", referenced from:      MyEncryptedPacket::~MyEncryptedPacket()in main.o      MyEncryptedPacket::~MyEncryptedPacket()in main.o      MyEncryptedPacket::~MyEncryptedPacket()in main.o      MyEncryptedPacket::~MyEncryptedPacket()in main.o  "sf::IPAddress::IsValid() const", referenced from:      RunClient(unsigned short)in main.old: symbol(s) not foundcollect2: ld returned 1 exit status71(4@58""sf::Packet::operator<<(unsigned short)", referenced from:307569613#19#61#0(6@0"307569613#0#0#0#0#0"0(13@50"Operator<<(sf::Packet&, Character const&)in main.o307569613#80#57#0(6@0"307569613#0#0#0#0#0"0(4@46""sf::IPAddress::IPAddress()", referenced from:307569613#137#49#0(6@0"307569613#0#0#0#0#0"0(13@34"RunClient(unsigned short)in main.o307569613#186#41#0(6@0"307569613#0#0#0#0#0"0(13@34"RunServer(unsigned short)in main.o307569613#227#41#0(6@0"307569613#0#0#0#0#0"0(4@43""typeinfo for sf::Packet", referenced from:307569613#268#46#0(6@0"307569613#0#0#0#0#0"0(13@39"Typeinfo for MyEncryptedPacketin main.o307569613#314#46#0(6@0"307569613#0#0#0#0#0"0(4@52""sf::SocketTCP::Send(sf::Packet&)", referenced from:307569613#360#55#0(6@0"307569613#0#0#0#0#0"0(13@34"RunServer(unsigned short)in main.o307569613#415#41#0(6@0"307569613#0#0#0#0#0"0(13@34"RunServer(unsigned short)in main.o307569613#456#41#0(6@0"307569613#0#0#0#0#0"0(4@46""sf::SocketTCP::SocketTCP()", referenced from:307569613#497#49#0(6@0"307569613#0#0#0#0#0"0(13@34"RunClient(unsigned short)in main.o307569613#546#41#0(6@0"307569613#0#0#0#0#0"0(13@34"RunServer(unsigned short)in main.o307569613#587#41#0(6@0"307569613#0#0#0#0#0"0(13@34"RunServer(unsigned short)in main.o307569613#628#41#0(6@0"307569613#0#0#0#0#0"0(4@42""sf::SocketTCP::Close()", referenced from:307569613#669#45#0(6@0"307569613#0#0#0#0#0"0(13@34"RunClient(unsigned short)in main.o307569613#714#41#0(6@0"307569613#0#0#0#0#0"0(13@34"RunServer(unsigned short)in main.o307569613#755#41#0(6@0"307569613#0#0#0#0#0"0(13@34"RunServer(unsigned short)in main.o307569613#796#41#0(6@0"307569613#0#0#0#0#0"0(4@87""sf::SocketTCP::Connect(unsigned short, sf::IPAddress const&, float)", referenced from:307569613#837#90#0(6@0"307569613#0#0#0#0#0"0(13@34"RunClient(unsigned short)in main.o307569613#927#41#0(6@0"307569613#0#0#0#0#0"0(4@53""sf::Packet::operator bool() const", referenced from:307569613#968#56#0(6@0"307569613#0#0#0#0#0"0(13@34"RunClient(unsigned short)in main.o307569613#1024#41#0(6@0"307569613#0#0#0#0#0"0(13@34"RunClient(unsigned short)in main.o307569613#1065#41#0(6@0"307569613#0#0#0#0#0"0(4@102""sf::operator>>(std::basic_istream<char, std::char_traits<char> >&, sf::IPAddress&)", referenced from:307569613#1106#105#0(6@0"307569613#0#0#0#0#0"0(13@34"RunClient(unsigned short)in main.o307569613#1211#41#0(6@0"307569613#0#0#0#0#0"0(4@50""sf::Packet::operator>>(float&)", referenced from:307569613#1252#53#0(6@0"307569613#0#0#0#0#0"0(13@44"Operator>>(sf::Packet&, Character&)in main.o307569613#1305#51#0(6@0"307569613#0#0#0#0#0"0(4@57""sf::SocketTCP::Listen(unsigned short)", referenced from:307569613#1356#60#0(6@0"307569613#0#0#0#0#0"0(13@34"RunServer(unsigned short)in main.o307569613#1416#41#0(6@0"307569613#0#0#0#0#0"0(4@59""sf::Packet::operator>>(unsigned short&)", referenced from:307569613#1457#62#0(6@0"307569613#0#0#0#0#0"0(13@44"Operator>>(sf::Packet&, Character&)in main.o307569613#1519#51#0(6@0"307569613#0#0#0#0#0"0(4@40""sf::Packet::Packet()", referenced from:307569613#1570#43#0(6@0"307569613#0#0#0#0#0"0(13@34"RunClient(unsigned short)in main.o307569613#1613#41#0(6@0"307569613#0#0#0#0#0"0(13@34"RunServer(unsigned short)in main.o307569613#1654#41#0(6@0"307569613#0#0#0#0#0"0(4@51""sf::Packet::GetDataSize() const", referenced from:307569613#1695#54#0(6@0"307569613#0#0#0#0#0"0(13@50"MyEncryptedPacket::OnSend(unsigned long&)in main.o307569613#1749#57#0(6@0"307569613#0#0#0#0#0"0(4@40""sf::Packet::Packet()", referenced from:307569613#1806#43#0(6@0"307569613#0#0#0#0#0"0(13@47"MyEncryptedPacket::MyEncryptedPacket()in main.o307569613#1849#54#0(6@0"307569613#0#0#0#0#0"0(4@66""sf::Packet::Append(void const*, unsigned long)", referenced from:307569613#1903#69#0(6@0"307569613#0#0#0#0#0"0(13@65"MyEncryptedPacket::OnReceive(char const*, unsigned long)in main.o307569613#1972#72#0(6@0"307569613#0#0#0#0#0"0(4@73""sf::SocketTCP::Accept(sf::SocketTCP&, sf::IPAddress*)", referenced from:307569613#2044#76#0(6@0"307569613#0#0#0#0#0"0(13@34"RunServer(unsigned short)in main.o307569613#2120#41#0(6@0"307569613#0#0#0#0#0"0(4@108""sf::operator<<(std::basic_ostream<char, std::char_traits<char> >&, sf::IPAddress const&)", referenced from:307569613#2161#111#0(6@0"307569613#0#0#0#0#0"0(13@34"RunClient(unsigned short)in main.o307569613#2272#41#0(6@0"307569613#0#0#0#0#0"0(13@34"RunServer(unsigned short)in main.o307569613#2313#41#0(6@0"307569613#0#0#0#0#0"0(4@121""sf::Packet::operator<<(std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)", referenced from:307569613#2354#124#0(6@0"307569613#0#0#0#0#0"0(13@50"Operator<<(sf::Packet&, Character const&)in main.o307569613#2478#57#0(6@0"307569613#0#0#0#0#0"0(4@55""sf::SocketTCP::Receive(sf::Packet&)", referenced from:307569613#2535#58#0(6@0"307569613#0#0#0#0#0"0(13@34"RunClient(unsigned short)in main.o307569613#2593#41#0(6@0"307569613#0#0#0#0#0"0(13@34"RunClient(unsigned short)in main.o307569613#2634#41#0(6@0"307569613#0#0#0#0#0"0(4@115""sf::Packet::operator>>(std::basic_string<char, std::char_traits<char>, std::allocator<char> >&)", referenced from:307569613#2675#118#0(6@0"307569613#0#0#0#0#0"0(13@44"Operator>>(sf::Packet&, Character&)in main.o307569613#2793#51#0(6@0"307569613#0#0#0#0#0"0(4@41""sf::Packet::~Packet()", referenced from:307569613#2844#44#0(6@0"307569613#0#0#0#0#0"0(13@34"RunClient(unsigned short)in main.o307569613#2888#41#0(6@0"307569613#0#0#0#0#0"0(13@34"RunClient(unsigned short)in main.o307569613#2929#41#0(6@0"307569613#0#0#0#0#0"0(13@34"RunServer(unsigned short)in main.o307569613#2970#41#0(6@0"307569613#0#0#0#0#0"0(13@34"RunServer(unsigned short)in main.o307569613#3011#41#0(6@0"307569613#0#0#0#0#0"0(4@47""sf::Packet::GetData() const", referenced from:307569613#3052#50#0(6@0"307569613#0#0#0#0#0"0(13@50"MyEncryptedPacket::OnSend(unsigned long&)in main.o307569613#3102#57#0(6@0"307569613#0#0#0#0#0"0(13@50"MyEncryptedPacket::OnSend(unsigned long&)in main.o307569613#3159#57#0(6@0"307569613#0#0#0#0#0"0(4@49""sf::Packet::operator<<(float)", referenced from:307569613#3216#52#0(6@0"307569613#0#0#0#0#0"0(13@50"Operator<<(sf::Packet&, Character const&)in main.o307569613#3268#57#0(6@0"307569613#0#0#0#0#0"0(4@41""sf::Packet::~Packet()", referenced from:307569613#3325#44#0(6@0"307569613#0#0#0#0#0"0(13@48"MyEncryptedPacket::~MyEncryptedPacket()in main.o307569613#3369#55#0(6@0"307569613#0#0#0#0#0"0(13@48"MyEncryptedPacket::~MyEncryptedPacket()in main.o307569613#3424#55#0(6@0"307569613#0#0#0#0#0"0(13@48"MyEncryptedPacket::~MyEncryptedPacket()in main.o307569613#3479#55#0(6@0"307569613#0#0#0#0#0"0(13@48"MyEncryptedPacket::~MyEncryptedPacket()in main.o307569613#3534#55#0(6@0"307569613#0#0#0#0#0"0(4@50""sf::IPAddress::IsValid() const", referenced from:307569613#3589#53#0(6@0"307569613#0#0#0#0#0"0(13@34"RunClient(unsigned short)in main.o307569613#3642#41#0(6@0"307569613#0#0#0#0#0"0(13@19"Symbol(s) not found307569613#3683#24#0(6@0"307569613#0#0#0#0#0"0(13@35"Collect2: ld returned 1 exit status307569613#3707#36#0(6@0"307569613#0#0#0#0#0"0(0#0#0"4300885448#659"    cd /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/Debug -F/Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/Debug -filelist /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/YNGSRV_0_0.build/Debug/YNGSRV_0_0.build/Objects-normal/i386/YNGSRV_0_0.LinkFileList -mmacosx-version-min=10.5 -framework sfml-system -o /Users/pettair/Documents/Workspaces/Xcode/C++/Project/YNGSRV_0_0/build/Debug/YNGSRV_0_01#
+
